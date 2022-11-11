@@ -5,3 +5,29 @@ reais = float(input("Informe o valor na carteira R$ "))
 cotacao_dolar = 3.27
 
 print(f"Com R$ {reais} você pode comprar US$ {(reais / cotacao_dolar):.2f}")
+
+
+
+
+print("""WAnderons
+      
+      
+      Wamderspm
+      
+      
+      
+      Wanderson
+      
+      Wanderson
+      """)
+print("""WAnderons
+      
+      
+      Wamderspm
+      
+      
+      
+      Wanderson
+      
+      Wanderson
+      """)
